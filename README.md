@@ -6,4 +6,4 @@ I have fun learning new technologies and pushing myself to think critically whil
 
 I am currently learning Python to expand my knowledge.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zuzu-chaoui-302134249/) or by <a href='mailto: hello@topogato.com'>Email</a> or click on the repo's below to see the different projects I've completed. 😄
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zuzu-chaoui-302134249/), <a href='mailto: hello@topogato.com'>Email</a> or click on the repo's below to see the different projects I've completed. 😄
