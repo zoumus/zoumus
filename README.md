@@ -12,7 +12,7 @@ I have fun learning new technologies and pushing myself to think critically whil
 
 - 💬 Ask me about **my ecommerce website [BelChocolate](https://bel-chocolate.herokuapp.com/#/)**
 
-- 📫 How to reach me **Email me directly at zehourchaoui@gmail.com**
+- 📫 How to reach me: **Email me directly at zehourchaoui@gmail.com**
 
 - ⚡ Fun fact **I love to learn new languages**
 
