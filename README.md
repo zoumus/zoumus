@@ -14,7 +14,7 @@ I have fun learning new technologies and pushing myself to think critically whil
 
 - 📫 How to reach me: **Email me directly at zehourchaoui@gmail.com**
 
-- ⚡ Fun fact: **I love to learn new languages**
+- ⚡ Fun fact: **I speak four languages and I would love to learn more**
 
 <h3 align="left">Connect with me:</h3><a href="https://www.linkedin.com/in/zuzu-chaoui-302134249/" target="_blank">LinkedIn</a> and <a href="https://angel.co/u/zuzu-chaoui" target="_blank">AngelList</a>
 
