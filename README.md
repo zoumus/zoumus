@@ -26,4 +26,4 @@ I have fun learning new technologies and pushing myself to think critically whil
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoumus&show_icons=true&locale=en" alt="zoumus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoumus&" alt="zoumus" /></p>
+<p><img align="center" width='10' src="https://github-readme-streak-stats.herokuapp.com/?user=zoumus&" alt="zoumus" /></p>
