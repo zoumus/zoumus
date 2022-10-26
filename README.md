@@ -4,7 +4,7 @@ I am a Software Developer with a passion for React, Redux, Javascript, HTML, CSS
 
 I have fun learning new technologies and pushing myself to think critically while using them. When brainstorming ideas, the user experience is at the forefront of my thoughts as I strive to build an interface around that which would be most responive and intuitive for them.
 
-- 🌱 I’m currently learning **TypeScript and Paython.**
+- 🌱 I’m currently learning **TypeScript and Python.**
 
 - 👯 I’m looking to collaborate on **open source**
 
